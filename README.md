@@ -1,32 +1,77 @@
-👋 Hi there, I'm Anwar Hussain Sofi!
-🚀 AI Enthusiast | Researcher | Lifelong Learner 🚀
+<h1 align="center">👋 Hi there, I'm <span style="color:#007acc">Anwar Hussain Sofi</span>!</h1>
 
-About Me
-🎓 Currently Pursuing: Master's in Applied Artificial Intelligence | National Taiwan Ocean University (NTOU)
-   Education: Bachelor of Technology in Information Technology | Dr. M.G.R Educational and Research Institute
-👀 Interests: Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Neural Networks, Image Processing, and Computer Vision
-🌱 Currently Learning: Advanced AI techniques, Image Segmentation, Object Detection, and Neural Network Optimization
-💻 Goal: To develop innovative projects that solve real-world problems using AI and ML
-💞️ Collaboration: Open to collaborating on research projects, open-source contributions, and AI/ML-based applications
-What I Do
-🌟 Researcher: Exploring AI, ML, NLP, Data Science, deep learning applications in Image Segmentation and Computer Vision
-🛠️ Developer: Building AI/ML models and interactive projects to contribute to the tech community
-🌐 Tech Explorer: Always experimenting with new technologies to enhance my skills
-Tech Stack & Tools
-Languages: Python, JavaScript
-Frameworks & Libraries: TensorFlow, PyTorch, OpenCV, NumPy, Pandas
-Tools: Jupyter Notebook, GitHub, Docker, VS Code
-Other Skills: Django, Data Analysis, Research Documentation
-How to Reach Me
-📫 Email: 11318004@mail.ntou.edu.tw
-🌐 LinkedIn: Anwar Hussain Sofi
-🌱 Portfolio/Website: in progress
+<p align="center">🚀 <strong>AI Enthusiast | Researcher | Lifelong Learner</strong> 🚀</p>
 
-⚡ Fun Facts
-📸 Hobbies: Photography, Traveling, and Cooking 🍳
-🌟 Motto: "Dream big, work hard, stay humble."
-🚀 Current Focus: Applying AI to solve healthcare challenges through medical image segmentation
-Let’s Connect and Collaborate! 🤝
-I’m excited to connect with like-minded developers, researchers, and AI enthusiasts. Let’s build something impactful together!
+---
 
-🚀 Let’s code, learn, and innovate!
+## 🧠 <strong>About Me</strong>
+
+- 🎓 **Education:**  
+  - 📘 Currently Pursuing **Master’s in Applied Artificial Intelligence** at **National Taiwan Ocean University (NTOU)**  
+  - 🎓 Bachelor's in Information Technology | **Dr. M.G.R Educational and Research Institute**
+
+- 👀 **Interests:**  
+  Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Image Processing, and Computer Vision  
+
+- 🌱 **Currently Learning:**  
+  Advanced AI Techniques, Image Segmentation, Neural Network Optimization  
+
+- 💻 **Goal:**  
+  To develop innovative projects that solve real-world problems using AI and ML  
+
+- 💞️ **Collaboration:**  
+  Open to research, open-source, and AI/ML-based application development  
+
+---
+
+## 🔬 <strong>What I Do</strong>
+
+- 🌟 **Researcher:**  
+  Exploring deep learning applications in Image Segmentation and Computer Vision  
+
+- 🛠️ **Developer:**  
+  Building AI/ML models and interactive projects  
+
+- 🌐 **Tech Explorer:**  
+  Always experimenting with new technologies to enhance my skills  
+
+---
+
+## 🧰 <strong>Tech Stack & Tools</strong>
+
+**Languages:**  
+`Python` | `JavaScript`
+
+**Frameworks & Libraries:**  
+`TensorFlow` | `PyTorch` | `OpenCV` | `NumPy` | `Pandas`
+
+**Tools:**  
+`Jupyter Notebook` | `GitHub` | `Docker` | `VS Code`
+
+**Other Skills:**  
+`Django` | `Data Analysis` | `Research Documentation`
+
+---
+
+## 📫 <strong>How to Reach Me</strong>
+
+- ✉️ **Email:** 11318004@mail.ntou.edu.tw  
+- 💼 **LinkedIn:** [Anwar Hussain Sofi](https://www.linkedin.com/in/anwar-hussain-sofi/)  
+- 🌐 **Portfolio/Website:** *Coming Soon*
+
+---
+
+## ⚡ <strong>Fun Facts</strong>
+
+- 📸 **Hobbies:** Photography, Traveling, and Cooking 🍳  
+- 🌟 **Motto:** _"Dream big, work hard, stay humble."_  
+- 🚀 **Current Focus:** Applying AI to solve healthcare challenges through **medical image segmentation**
+
+---
+
+## 🤝 <strong>Let’s Connect and Collaborate!</strong>
+
+I’m excited to connect with like-minded developers, researchers, and AI enthusiasts.  
+Let’s build something impactful together!
+
+> 🚀 _Let’s code, learn, and innovate!_
