@@ -2,13 +2,14 @@
 🚀 AI Enthusiast | Researcher | Lifelong Learner 🚀
 
 About Me
-🎓 Education: Bachelor of Technology in Information Technology | Dr. M.G.R Educational and Research Institute
+🎓 Currently Pursuing: Master's in Applied Artificial Intelligence | National Taiwan Ocean University (NTOU)
+   Education: Bachelor of Technology in Information Technology | Dr. M.G.R Educational and Research Institute
 👀 Interests: Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Neural Networks, Image Processing, and Computer Vision
-🌱 Currently Learning: Advanced AI techniques, Image Segmentation, and Neural Network Optimization
+🌱 Currently Learning: Advanced AI techniques, Image Segmentation, Object Detection, and Neural Network Optimization
 💻 Goal: To develop innovative projects that solve real-world problems using AI and ML
 💞️ Collaboration: Open to collaborating on research projects, open-source contributions, and AI/ML-based applications
 What I Do
-🌟 Researcher: Exploring deep learning applications in Image Segmentation and Computer Vision
+🌟 Researcher: Exploring AI, ML, NLP, Data Science, deep learning applications in Image Segmentation and Computer Vision
 🛠️ Developer: Building AI/ML models and interactive projects to contribute to the tech community
 🌐 Tech Explorer: Always experimenting with new technologies to enhance my skills
 Tech Stack & Tools
@@ -19,7 +20,7 @@ Other Skills: Django, Data Analysis, Research Documentation
 How to Reach Me
 📫 Email: 11318004@mail.ntou.edu.tw
 🌐 LinkedIn: Anwar Hussain Sofi
-🌱 Portfolio/Website: Coming Soon
+🌱 Portfolio/Website: in progress
 
 ⚡ Fun Facts
 📸 Hobbies: Photography, Traveling, and Cooking 🍳
