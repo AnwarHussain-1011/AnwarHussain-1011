@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#007acc">Anwar Hussain Sofi</span>!</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#007acc">Anwar Hussain</span>!</h1>
 
 <p align="center">🚀 <strong>AI Enthusiast | Researcher | Lifelong Learner</strong> 🚀</p>
 
