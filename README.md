@@ -16,13 +16,13 @@
 
 I recently completed my **Master of Science in Applied Artificial Intelligence** at **National Taiwan Ocean University (NTOU)**, where I specialized in interpretable multi-task deep learning for biomedical image analysis.
 
-My research sits at the intersection of **computer vision**, **multimodal learning**, and **explainable AI** — building systems that not only perform well, but can be understood and trusted in clinical settings. I'm drawn to problems where AI interpretability genuinely matters: where a "black box" is not good enough.
+My research sits at the intersection of **AI**, **computer vision**, **multimodal learning**, **image processing**  and **explainable AI** — building systems that not only perform well, but can be understood and trusted in clinical settings. I'm drawn to problems where AI interpretability genuinely matters: where a "black box" is not good enough.
 
 ---
 
 ## Research Highlights
 
-### EMBRACE — Multi-Task Embryo Assessment Framework
+### EMBRACE  Multi-Task Embryo Assessment Framework
 *Submitted · Computer Methods and Programs in Biomedicine (2026)*
 
 A first-author interpretable multi-task framework for cleavage-stage embryo assessment, jointly performing cytoplasmic fragmentation segmentation and morphological classification. Built with PyTorch, designed to be clinically explainable from the ground up.
@@ -31,7 +31,7 @@ A first-author interpretable multi-task framework for cleavage-stage embryo asse
 
 ---
 
-### 🏆 Excellent Award — Best AI Awards International Competition (2025)
+###  Excellent Award  Best AI Awards International Competition (2025)
 
 **AI Assistant for Automatic Interpretation of Reproductive Medical Images**
 
@@ -70,7 +70,7 @@ A multimodal Vision-Language system that interprets Time-Lapse Imaging (TLI) of 
 
 ## Selected Experience
 
-**Data Science Intern** — Codtech IT Solutions *(Apr–Aug 2025)*
+**Data Science Intern**  Codtech IT Solutions *(Apr–Aug 2025)*
 Deployed ML models for business solutions; built data preprocessing and optimization pipelines.
 
 **2025 NCHU Semiconductor Summer School** — National Chung Hsing University *(Aug 2025)*
@@ -83,7 +83,7 @@ Deep Learning classifiers; real-time model evaluation and dataset management.
 
 ## Publications
 
-- **EMBRACE** — *Computer Methods and Programs in Biomedicine*, submitted July 2026
+- **EMBRACE**  *Computer Methods and Programs in Biomedicine*, submitted July 2026
 - **ST-MIND: AI-Based Interactive Student Educational Application** — *Journal of Interdisciplinary Cycle Research*, vol. XV, no. IV, pp. 88–92, April 2023
 
 ---
@@ -91,8 +91,8 @@ Deep Learning classifiers; real-time model evaluation and dataset management.
 ## Scholarships & Recognition
 
 - 🥇 **Excellent Award** — Best AI Awards International Competition, 2025
-- 🎓 **NTOU Scholarship** — Academic excellence, M.S. program (2024–2026)
-- 🎓 **PMSSS Scholarship** — Fully-funded merit award, AICTE, Govt. of India (2019–2023)
+- 🎓  **Academic excellence, M.S. program (2024–2026)
+- 🎓  **merit award, AICTE, Govt. of India (2019–2023)
 - 🏆 **1st Place** — Digital India Week Quiz, 2022
 
 ---
