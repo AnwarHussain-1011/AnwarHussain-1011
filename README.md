@@ -47,8 +47,8 @@ A multimodal Vision-Language system that interprets Time-Lapse Imaging (TLI) of 
 
 | Degree | Institution | Grade | Year |
 |--------|------------|-------|------|
-| M.S. in Applied Artificial Intelligence | National Taiwan Ocean University, Taiwan | A++ | 2024–2026 |
-| B.Tech in Information Technology | Dr. M.G.R Educational and Research Institute, India | A++ | 2019–2023 |
+| M.S. in Applied Artificial Intelligence | National Taiwan Ocean University, Taiwan | A | 2024–2026 |
+| B.Tech in Information Technology | Dr. M.G.R Educational and Research Institute, India | A | 2019–2023 |
 
 ---
 
