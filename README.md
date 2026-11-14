@@ -90,10 +90,10 @@ Deep Learning classifiers; real-time model evaluation and dataset management.
 
 ## Scholarships & Recognition
 
-- 🥇 **Excellent Award** — Best AI Awards International Competition, 2025
-- 🎓  **Academic excellence, M.S. program (2024–2026)
-- 🎓  **merit award, AICTE, Govt. of India (2019–2023)
-- 🏆 **1st Place** — Digital India Week Quiz, 2022
+-  Excellent Award — Best AI Awards International Competition, 2025
+- Academic excellence, M.S. program (2024–2026)
+- merit award, AICTE, Govt. of India (2019–2023)
+- 1st Place — Digital India Week Quiz, 2022
 
 ---
 
